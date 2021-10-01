@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jack Edwards
 
-## Application Security Engineer in the Cyber Security Team.
+## Application Security Engineer in the Cyber Security Team
 
 ## Contact me:
 - [📫  Email](mailto:jack.edwards@itv.com)
