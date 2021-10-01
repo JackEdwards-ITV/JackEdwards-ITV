@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Jack Edwards, I am an Application Security Engineer here at ITV.
+# 👋 Hi, I’m Jack Edwards: Application Security Engineer here at ITV.
 
 ## Contact me:
-[📫  Email](mailto:jack.edwards@itv.com)
-[💬  Slack](https://itv.slack.com/team/UJVTAKC1G)
-📱 Phone: 07557833360
+- [📫  Email](mailto:jack.edwards@itv.com)
+- [💬  Slack](https://itv.slack.com/team/UJVTAKC1G)
+- 📱 Phone: 07557833360
 
 <!---
 JackEdwards-ITV/JackEdwards-ITV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
