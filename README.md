@@ -1,5 +1,6 @@
-👋 Hi, I’m Jack Edwards,
-🔒 I am an Application Security Engineer
+# 👋 Hi, I’m Jack Edwards, I am an Application Security Engineer here at ITV.
+
+## Contact me:
 [📫  Email](mailto:jack.edwards@itv.com)
 [💬  Slack](https://itv.slack.com/team/UJVTAKC1G)
 📱 Phone: 07557833360
