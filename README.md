@@ -2,7 +2,7 @@
 
 ## Security Engineer in the Security Engineering team
 
-###Things I deal with:
+### Things I deal with:
 
 - Application Security
 - Security Engineering services
