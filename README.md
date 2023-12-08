@@ -1,6 +1,13 @@
 # 👋 Hi, I’m Jack Edwards
 
-## Application Security Engineer in the Cyber Security Team
+## Security Engineer in the Security Engineering team
+
+###Things I deal with:
+
+- Application Security
+- Security Engineering services
+- Threat Modelling
+- Vulnerability Management
 
 ## Contact me:
 - [📫  Email](mailto:jack.edwards@itv.com)
