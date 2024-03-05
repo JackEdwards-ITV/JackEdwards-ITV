@@ -12,7 +12,7 @@
 ## Contact me:
 - [📫  Email](mailto:jack.edwards@itv.com)
 - [💬  Slack](https://itv.slack.com/team/UJVTAKC1G)
-- 📱 Phone: 07557833360
+- 📱 Phone: +44(0) 7557 833360
 
 <!---
 JackEdwards-ITV/JackEdwards-ITV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
